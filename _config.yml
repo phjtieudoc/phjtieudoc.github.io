@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Website của Drake Strike
+title: Drake Strike
 
 # Your name to show in the footer
-author: Drake Strike
+author: phjtieudoc
 
 # --- List of links in the navigation bar --- #
 
@@ -39,11 +39,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
+ # email: "someone@example.com"
+  facebook: phitieudoc
+#  github:
+  twitter: dsprovip123
+  reddit: phjtieudoc
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -53,9 +53,9 @@ social-network-links:
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
-#  twitch: yourname
+  twitch: phjtieudoc
 #  yelp: yourname
-#  telegram: yourname
+  telegram: phjtieudoc
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
@@ -71,7 +71,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
