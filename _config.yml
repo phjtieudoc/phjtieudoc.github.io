@@ -94,16 +94,16 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA" # Thanh trên cùng
-navbar-text-col: "#404040" # Chữ thanh trên cùng
+navbar-col: "#0E2027" # Thanh trên cùng
+navbar-text-col: "#C6CED2" # Chữ thanh trên cùng
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF" # Màu nền trang
+page-col: "#F6EEE4" # Màu nền trang
 text-col: "#404040"
-link-col: "#008AFF" # Màu chỗ liên kết
+link-col: "#309793" # Màu chỗ liên kết
 hover-col: "#0085A1" # Màu khi đưa trỏ chuột vào liên kết
-footer-col: "#EAEAEA" # Thanh dưới cùng
+footer-col: "#0E2027" # Thanh dưới cùng
 footer-text-col: "#777777" # Màu chữ phía dưới
-footer-link-col: "#404040" # Phần vièn chỗ mạng xã hội các kiểu
+footer-link-col: "#E6654D" # Phần vièn chỗ mạng xã hội các kiểu
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
