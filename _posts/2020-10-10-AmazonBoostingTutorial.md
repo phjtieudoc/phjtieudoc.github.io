@@ -7,7 +7,7 @@ comments: true
 ---
 
 {: .box-note}
-**Note:** Đối với những bạn không biết boost, bạn có thể nhờ các bạn booster trong group Libra Community tại [đây](https://www.facebook.com/groups/libra.community.vn/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+**Ghi chú:** Đối với những bạn không biết boost, bạn có thể nhờ các bạn booster trong group Libra Community tại [đây](https://www.facebook.com/groups/libra.community.vn/) - họ sẽ giúp bạn trong việc boost Amazon Prime.
 
 **Here is some bold text**
 
