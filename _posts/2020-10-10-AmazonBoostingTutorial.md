@@ -2,7 +2,7 @@
 layout: post
 title: Nhận Amazon Prime bằng phương pháp Boosting cũ
 subtitle: Hướng dẫn cho người mới chơi
-tags: [MLBB]
+tags: [MLBB, Amazon Prime]
 comments: true
 ---
 
