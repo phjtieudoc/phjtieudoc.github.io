@@ -6,7 +6,8 @@ tags: [MLBB]
 comments: true
 ---
 
-Đối với những bạn không biết boost, bạn có thể nhờ các bạn booster trong group Libra Community tại [đây](https://www.facebook.com/groups/libra.community.vn/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+{: .box-note}
+**Note:** Đối với những bạn không biết boost, bạn có thể nhờ các bạn booster trong group Libra Community tại [đây](https://www.facebook.com/groups/libra.community.vn/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
 
