@@ -4,10 +4,10 @@ published: 2025-04-06
 updated: 2025-04-07
 description: Hướng dẫn tải Minecraft Java và Bedrock cho thiết bị Windows, Android.
 tags:
-  - Minecraft
+  ["Minecraft"]
 category: Guides
 draft: false
-lang: en
+lang: vi
 ---
 
 :::tip[Truy cập nhanh]
