@@ -36,21 +36,21 @@ Minecraft là tựa game có phí, để mua Minecraft và chơi trên Trình kh
 ##### **Cách 1:** Tải từ trang chủ Minecraft.net
 ###### **Bước 1**: Truy cập website *[tại đây](https://www.minecraft.net/en-us/download)* nếu bạn đã mua game rồi.
 
-![Minecraft Website](./download_Minecraft/Minecraft_website.png)
+![Minecraft Website](./Minecraft_website.png)
 
 Chọn phiên bản tương ứng với hệ điều hành bạn đang sử dụng:
 - Nếu dùng **Windows 10/11**: Chọn **Download Launcher for Windows 10/11**.
 - Nếu dùng **Windows 8.1, 8 hoặc 7**: Chọn **Download Windows Legacy Launcher**.
 
-![MinecraftInstaller_download](./download_Minecraft/MinecraftInstaller_download.png)
+![MinecraftInstaller_download](./MinecraftInstaller_download.png)
 
 Đợi quá trình tải xuống hoàn tất, khởi chạy tập tin MinecraftInstaller.exe và làm theo hướng dẫn. 
 
-![MinecraftLauncherInstall](./download_Minecraft/MinecraftLauncherInstall.png)
+![MinecraftLauncherInstall](./MinecraftLauncherInstall.png)
 
 ###### **Bước 2:** **Chấp nhận Điều khoản dịch vụ** và ấn **Install**
 
-![XboxLogin](./download_Minecraft/XboxLogin.png)
+![XboxLogin](./XboxLogin.png)
 
 Đến đoạn này, hãy đăng nhập tài khoản Xbox của bạn vào.
 
@@ -66,32 +66,32 @@ Legacy Launcher được biết đến là trình khởi động nhẹ, tích h�
 
 ###### **Bước 1**: Truy cập website của *Legacy Launcher* *[tại đây](https://llaun.ch/en)*
 
-![LegacyLauncherWebsite](./download_Minecraft/LegacyLauncherWebsite.png)
+![LegacyLauncherWebsite](./LegacyLauncherWebsite.png)
 
 Nhấn vào ***Download for Windows*** để bắt đầu tải về.
 Hoặc các bạn có thể tải nhanh tại [đây](https://llaun.ch/installer) ([Portable](https://llaun.ch/portable))
 
 ###### **Bước 2**: Làm theo các bước cài đặt Legacy Launcher vào máy
 
-![llinstaller.png](./download_Minecraft/llinstaller.png)
+![llinstaller.png](./llinstaller.png)
 
 ###### **Bước 3**: Nhấp chuột vào Finish để hoàn tất cài đặt, Legacy Launcher sẽ tự khởi động sau đó.
 
-![llinstallerfinish.png](./download_Minecraft/llinstallerfinish.png)
+![llinstallerfinish.png](./llinstallerfinish.png)
 
 ###### **Bước 4**: Đợi thanh nạp đến 75%, chọn **tiếng Việt** (vi_VN) và nhấn OK
 
-![llopen1.png](./download_Minecraft/llopen1.png)
+![llopen1.png](./llopen1.png)
 
-![llopen.png](./download_Minecraft/llopen.png)
+![llopen.png](./llopen.png)
 
 ###### **Bước 5**: Giao diện của LLauncher mở ra, nhấn vào dấu 3 gạch và chọn **"Quản lí tài khoản"**
 
-![createaccountllauncher](./download_Minecraft/createaccountllauncher.png)
+![createaccountllauncher](./createaccountllauncher.png)
 
 Ấn vào **(+)** để thêm tài khoản
 
-![createaccountllauncher1.png](./download_Minecraft/createaccountllauncher1.png)
+![createaccountllauncher1.png](./createaccountllauncher1.png)
 
 :::tip[Mẹo]
 Nếu đây là lần đầu bạn chơi Minecraft hoặc lần đầu chơi Minecraft trên PC, hãy ấn vào **"Miễn phí"** để tạo tài khoản miễn phí.
@@ -102,8 +102,8 @@ Ngoài ra cũng có các tuỳ chọn khác như:
 
 Nhập tên người dùng bạn muốn đặt và ấn ***"Thêm tài khoản"***.
 
-![createaccountllauncher2](./download_Minecraft/createaccountllauncher2.png)
+![createaccountllauncher2](./createaccountllauncher2.png)
 
 Quay về màn hình chính và ấn ***"Cài đặt và khởi động"***. LLauncher sẽ mặc định vào game trong phiên bản phát hành mới nhất.
 
-![createaccountllauncher3](./download_Minecraft/createaccountllauncher3.png)
+![createaccountllauncher3](./createaccountllauncher3.png)
